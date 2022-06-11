@@ -1,0 +1,21 @@
+{
+	"name" : "SS-Mods",
+	"slug" : "ss-mods",
+	"author" : "<a href='https://shipwreckstudio.com/'>Shipwreck Studio</a>",
+	"author_profile" : "",
+	"version" : "1.0.0",
+	"download_url" : "https://ssmod-updater.test/ss-mods.zip",
+	"requires" : "3.0",
+	"tested" : "6.0",
+	"requires_php" : "7.0.0",
+	"last_updated" : "2019-02-22 02:10:00",
+	"sections" : {
+		"description" : "Shipwreck Studio mods - started 12/11/15 - Last mod 22/2/19 - Agency mods for all client sites",
+		"installation" : "Click the activate button and that's it.",
+		"changelog" : "<h4>1.0.0 – 10 June 2022</h4><ul><li>Code Refactor.</li><li>Updater Added.</li></ul>"
+	},
+	"banners" : {
+		"low" : "https://ssmod-updater.test/bass-mods-banner-772x250.png",
+		"high" : "https://ssmod-updater.test/ss-mods-banner-1544x500.png"
+	}
+}
